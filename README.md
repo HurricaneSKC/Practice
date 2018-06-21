@@ -7,5 +7,7 @@ I will submit my various bits of code as I learn
 3.  Calculator.py - basic calculator build using tkinter
 4.  CompundInterest.py - very basic compund interest program 
 5.  ConverterMiles2Kilometers.py - miles to kilometers converter
-6. FibonnaciClass.py - currently being worked on... 
+6.  FibonnaciClass.py - currently being worked on... 
+7.  FunctionEquation - function problem solved
+8. 
   
