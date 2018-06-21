@@ -9,5 +9,7 @@ I will submit my various bits of code as I learn
 5.  ConverterMiles2Kilometers.py - miles to kilometers converter
 6.  FibonnaciClass.py - currently being worked on... 
 7.  FunctionEquation - function problem solved
-8. 
+8.  GuessingGame.py - simple 1 to 10 guessing game
+9.  Ifelseproblem.py - simple problem determining what grade a school child should be in
+10. 
   
