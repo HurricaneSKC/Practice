@@ -12,5 +12,5 @@ I will submit my various bits of code as I learn
 8.  GuessingGame.py - simple 1 to 10 guessing game
 9.  Ifelseproblem.py - simple problem determining what grade a school child should be in
 10. Ingedients.py - currently being worked on...
-
+11. WarriorOOPpy - simple python game where two warriors fight to the death
   
